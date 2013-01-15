@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/weibo4j-oauth2-beta2.1.1.zip"/>
+	<classpathentry kind="lib" path="D:/document/workspace/MapDroid/lib/rabbitmq-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/geoweibo.jar" sourcepath="/weibo4j-oauth2"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/jackson-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/htmlparser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/htmllexer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qian Huang/Desktop/thumbelina.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
